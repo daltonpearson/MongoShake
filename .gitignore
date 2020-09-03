@@ -28,3 +28,4 @@ bin/
 conf/
 !conf/collector.conf
 !conf/receiver.conf
+!.github/pull.yml
